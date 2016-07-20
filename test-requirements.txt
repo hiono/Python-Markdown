@@ -3,3 +3,4 @@ coverage<4.0
 pyyaml
 pytidylib
 pygments
+lxml
